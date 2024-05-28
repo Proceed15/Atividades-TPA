@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\bin\Debug\net8.0\TPA_CSharp_Menu.exe
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\bin\Debug\net8.0\TPA_CSharp_Menu.deps.json
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\bin\Debug\net8.0\TPA_CSharp_Menu.runtimeconfig.json
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\bin\Debug\net8.0\TPA_CSharp_Menu.dll
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\bin\Debug\net8.0\TPA_CSharp_Menu.pdb
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.AssemblyInfo.cs
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.sourcelink.json
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.dll
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\refint\TPA_CSharp_Menu.dll
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.pdb
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\TPA_CSharp_Menu.genruntimeconfig.cache
+C:\Users\Jose\Desktop\repos\TPA_CSharp_Menu\obj\Debug\net8.0\ref\TPA_CSharp_Menu.dll
