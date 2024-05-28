@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bv4aU0yNmM99pHRdBTQ1BGALoFoYHNuV7/F/9NUZCtJOMwHdQfIlRk2N0nxA3D0+4lLrSij5esz+2dXekDDzMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose\\Desktop\\repos\\TPA, Forca\\TPA, Forca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jose\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
