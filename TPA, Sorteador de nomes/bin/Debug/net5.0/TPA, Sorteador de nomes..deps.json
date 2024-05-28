@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TPA, Sorteador de nomes./1.0.0": {
+        "runtime": {
+          "TPA, Sorteador de nomes..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPA, Sorteador de nomes./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
