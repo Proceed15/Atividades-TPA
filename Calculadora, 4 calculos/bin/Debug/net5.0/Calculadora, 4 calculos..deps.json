@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculadora, 4 calculos./1.0.0": {
+        "runtime": {
+          "Calculadora, 4 calculos..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora, 4 calculos./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
