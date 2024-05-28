@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Patinhos correção e melhoria./1.0.0": {
+        "runtime": {
+          "Patinhos correção e melhoria..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patinhos correção e melhoria./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
