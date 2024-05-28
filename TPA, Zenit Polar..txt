@@ -1,0 +1,53 @@
+using System;
+
+    class Program
+    {
+        static void Main()
+        {
+            //Programa de Criptografia usando o sistema Zenit Polar.
+			string Resp;
+            do
+            {
+				
+				char[] zenit = { 'Z', 'E', 'N', 'I', 'T', 'z', 'e', 'n', 'i', 't' };
+				char[] polar = { 'P', 'O', 'L', 'A', 'R', 'p', 'o', 'l', 'a', 'r' };
+
+				Console.WriteLine("Programa de encripitação usando Zenit Polar.");
+				Console.ReadLine();
+
+				Console.WriteLine("\r\nDigite o texto a ser criptografado:");
+				string texto = Console.ReadLine();
+				char[] criptografia = texto.ToCharArray();
+
+				Console.WriteLine("\r\nSeu texto com a criptografia: ");
+
+				for (int i = 0; i < texto.Length; i++)
+				{
+					for (int x = 0; x < zenit.Length; x++)
+					{
+						if (criptografia[i] == zenit[x])
+							criptografia[i] = polar[x];
+						else if (criptografia[i] == polar[x])
+							criptografia[i] = zenit[x];
+					}
+					Console.Write(criptografia[i]);
+				}
+				Console.WriteLine("" + "\r\nSeu texto sem a criptografia: ");
+				for (int i = 0; i < texto.Length; i++)
+				{
+					for (int x = 0; x < zenit.Length; x++)
+					{
+						if (criptografia[i] == zenit[x])
+							criptografia[i] = polar[x];
+						else if (criptografia[i] == polar[x])
+							criptografia[i] = zenit[x];
+					}
+					Console.Write(criptografia[i]);
+				}
+				Console.ReadKey();
+
+				Console.WriteLine("\r\nDeseja continuar? ");
+				Resp = Console.ReadLine();
+			}while (Resp == "Sim" || Resp == "sim" || Resp == "S" || Resp == "s");
+        }
+    }
